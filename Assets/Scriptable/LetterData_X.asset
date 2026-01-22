@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_X
+  m_EditorClassIdentifier: 
+  letter: 88
+  itemSprites:
+  - {fileID: 3962975429028922947, guid: f6b7333d31c113a4592e3adb112de9e7, type: 3}
+  - {fileID: 6682975365920625677, guid: 65ede9e92a50f4246b161254e1294593, type: 3}
+  - {fileID: -6779086747379215962, guid: ed7468d0cd9d4ae42bda3074d05153a5, type: 3}
+  itemNames:
+  - Ant
+  - Airoplane
+  - Apple

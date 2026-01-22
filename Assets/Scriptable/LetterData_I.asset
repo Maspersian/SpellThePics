@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_I
+  m_EditorClassIdentifier: 
+  letter: 73
+  itemSprites:
+  - {fileID: -7560284153744367771, guid: 1e3e375f123c026469bfc8681a5b5ff4, type: 3}
+  - {fileID: 6236285840621759610, guid: f7f2b0838a2c753438cad0e6c479cc65, type: 3}
+  - {fileID: -6779086747379215962, guid: ed7468d0cd9d4ae42bda3074d05153a5, type: 3}
+  itemNames:
+  - Ice
+  - Ice cream
+  - i

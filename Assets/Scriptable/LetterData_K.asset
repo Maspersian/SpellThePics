@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_K
+  m_EditorClassIdentifier: 
+  letter: 75
+  itemSprites:
+  - {fileID: 1694913177206695654, guid: 014ebb02b35b43b40b7cfdb8d211ae37, type: 3}
+  - {fileID: 7072975812608951047, guid: 7a9137b3de8891a49b2eae30519dc0ff, type: 3}
+  - {fileID: -2940649096967254720, guid: 299a842e1aa7ce64d8541a9127d2a632, type: 3}
+  - {fileID: 5979896342075657768, guid: faca4195fee0ed149921cd6eb4949646, type: 3}
+  itemNames:
+  - Key
+  - King
+  - Kite
+  - Kangaroo

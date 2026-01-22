@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_S
+  m_EditorClassIdentifier: 
+  letter: 83
+  itemSprites:
+  - {fileID: 7680434897366398094, guid: 5dc45a60064071349878db2ab1bf9fa0, type: 3}
+  - {fileID: -3815749816967407052, guid: 941a98140d5bfbf4ba24a330dfdab2ea, type: 3}
+  - {fileID: 2396395746645985887, guid: 69bc8a089b30edd449bfc06b9c62e3bf, type: 3}
+  itemNames:
+  - Sun
+  - Shark
+  - Snack

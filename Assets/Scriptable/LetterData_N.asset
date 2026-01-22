@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_N
+  m_EditorClassIdentifier: 
+  letter: 78
+  itemSprites:
+  - {fileID: 3826267910667093834, guid: 85443868995a7fc44915b9c79bdbbe7b, type: 3}
+  - {fileID: -5730248952985370163, guid: bb605da6f998b874fab34cd9bb3e753d, type: 3}
+  - {fileID: -117381706063063591, guid: 56c2564aabc42784fa99b34c35a669e2, type: 3}
+  itemNames:
+  - Nest
+  - NoteBook
+  - Nurse

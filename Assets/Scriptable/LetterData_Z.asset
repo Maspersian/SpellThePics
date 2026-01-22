@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_Z
+  m_EditorClassIdentifier: 
+  letter: 90
+  itemSprites:
+  - {fileID: 8845663894121712491, guid: 55132e8d10546ee4da1aa144e8ffba8d, type: 3}
+  - {fileID: 3276473918741473981, guid: 9204b50c07c362e4f88a097f6494fe09, type: 3}
+  - {fileID: 8845663894121712491, guid: 55132e8d10546ee4da1aa144e8ffba8d, type: 3}
+  itemNames:
+  - Zebra
+  - Zip
+  - Zebra

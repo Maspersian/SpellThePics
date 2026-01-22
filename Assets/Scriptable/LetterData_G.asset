@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_G
+  m_EditorClassIdentifier: 
+  letter: 71
+  itemSprites:
+  - {fileID: 5770909486039066682, guid: c869c7fa36058ae4aaf2afd17f1dd83e, type: 3}
+  - {fileID: -1347532211411968617, guid: c7638ae3a23fdf141a619f99eac36fe2, type: 3}
+  - {fileID: -3007706496689592259, guid: dc77d00cc96103046a8564293bc34b7e, type: 3}
+  itemNames:
+  - Giraff
+  - Grass
+  - Guitar

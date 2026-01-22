@@ -1,0 +1,3822 @@
+fileFormatVersion: 2
+guid: dfc455a58c4e2954cb1242bec614fa52
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8558258358756935692
+    second: Watermelon_0
+  - first:
+      213: 1013754601337358461
+    second: Watermelon_1
+  - first:
+      213: 5992088724867527691
+    second: Watermelon_2
+  - first:
+      213: 3159699416640270981
+    second: Watermelon_3
+  - first:
+      213: 5187548815225833754
+    second: Watermelon_4
+  - first:
+      213: -4424528892947583781
+    second: Watermelon_5
+  - first:
+      213: -1847860089355230943
+    second: Watermelon_6
+  - first:
+      213: 5753343077069338363
+    second: Watermelon_7
+  - first:
+      213: 2849867209393492970
+    second: Watermelon_8
+  - first:
+      213: -9027941748444125203
+    second: Watermelon_9
+  - first:
+      213: 6859971484621947987
+    second: Watermelon_10
+  - first:
+      213: -2170777493058721719
+    second: Watermelon_11
+  - first:
+      213: 7738798422133354974
+    second: Watermelon_12
+  - first:
+      213: -2907263322007431416
+    second: Watermelon_13
+  - first:
+      213: -5693830639490123992
+    second: Watermelon_14
+  - first:
+      213: -4398575037255231300
+    second: Watermelon_15
+  - first:
+      213: 7736480790382017160
+    second: Watermelon_16
+  - first:
+      213: 6277593309289836822
+    second: Watermelon_17
+  - first:
+      213: -2839903179932363684
+    second: Watermelon_18
+  - first:
+      213: 8081106374747338513
+    second: Watermelon_19
+  - first:
+      213: 2701081141248226926
+    second: Watermelon_20
+  - first:
+      213: 1169449187138032444
+    second: Watermelon_21
+  - first:
+      213: -916092751979937613
+    second: Watermelon_22
+  - first:
+      213: 4620478396771120124
+    second: Watermelon_23
+  - first:
+      213: -2496709449336099296
+    second: Watermelon_24
+  - first:
+      213: -5837129504921704776
+    second: Watermelon_25
+  - first:
+      213: 4554563728577179065
+    second: Watermelon_26
+  - first:
+      213: 6083353359436821018
+    second: Watermelon_27
+  - first:
+      213: -6341408228310542649
+    second: Watermelon_28
+  - first:
+      213: 1797624932490209456
+    second: Watermelon_29
+  - first:
+      213: 5635404242345725219
+    second: Watermelon_30
+  - first:
+      213: -7471557301329219061
+    second: Watermelon_31
+  - first:
+      213: 8291370287263206296
+    second: Watermelon_32
+  - first:
+      213: 8426452636964846384
+    second: Watermelon_33
+  - first:
+      213: 8441405853655443610
+    second: Watermelon_34
+  - first:
+      213: 286271959991437732
+    second: Watermelon_35
+  - first:
+      213: 4602678854477965564
+    second: Watermelon_36
+  - first:
+      213: 1320432647848881990
+    second: Watermelon_37
+  - first:
+      213: 4515053674957087155
+    second: Watermelon_38
+  - first:
+      213: 4244424395796860105
+    second: Watermelon_39
+  - first:
+      213: -5768845715745416795
+    second: Watermelon_40
+  - first:
+      213: -2469271613730508287
+    second: Watermelon_41
+  - first:
+      213: 2710547672193738831
+    second: Watermelon_42
+  - first:
+      213: -933402221520307414
+    second: Watermelon_43
+  - first:
+      213: 7110400031115207043
+    second: Watermelon_44
+  - first:
+      213: 2605529150247062199
+    second: Watermelon_45
+  - first:
+      213: 1666838572023501493
+    second: Watermelon_46
+  - first:
+      213: -280198049661921525
+    second: Watermelon_47
+  - first:
+      213: 6117860722598248602
+    second: Watermelon_48
+  - first:
+      213: 5959280023922552680
+    second: Watermelon_49
+  - first:
+      213: -6700027890280603983
+    second: Watermelon_50
+  - first:
+      213: -2798502469579051154
+    second: Watermelon_51
+  - first:
+      213: 773077660571508837
+    second: Watermelon_52
+  - first:
+      213: 2965333652325641365
+    second: Watermelon_53
+  - first:
+      213: 5589184835497388543
+    second: Watermelon_54
+  - first:
+      213: 2347049848600424250
+    second: Watermelon_55
+  - first:
+      213: -8134579159598565606
+    second: Watermelon_56
+  - first:
+      213: -7826734748806447555
+    second: Watermelon_57
+  - first:
+      213: -7392837857946011039
+    second: Watermelon_58
+  - first:
+      213: -8704938169510483854
+    second: Watermelon_59
+  - first:
+      213: 1451221402250957146
+    second: Watermelon_60
+  - first:
+      213: -412337923596708275
+    second: Watermelon_61
+  - first:
+      213: -6478361688162266878
+    second: Watermelon_62
+  - first:
+      213: -3887681361823868356
+    second: Watermelon_63
+  - first:
+      213: -571602756893268867
+    second: Watermelon_64
+  - first:
+      213: 5542872211424525199
+    second: Watermelon_65
+  - first:
+      213: 2376821258720599376
+    second: Watermelon_66
+  - first:
+      213: -8654055105694246117
+    second: Watermelon_67
+  - first:
+      213: -7042692857426592532
+    second: Watermelon_68
+  - first:
+      213: -4099481642058648130
+    second: Watermelon_69
+  - first:
+      213: -2673639552982558828
+    second: Watermelon_70
+  - first:
+      213: 1084274446071438656
+    second: Watermelon_71
+  - first:
+      213: -6810687325298340024
+    second: Watermelon_72
+  - first:
+      213: -2291569260867837984
+    second: Watermelon_73
+  - first:
+      213: -6500898406763414583
+    second: Watermelon_74
+  - first:
+      213: -8503793685016729998
+    second: Watermelon_75
+  - first:
+      213: -2239202551637249124
+    second: Watermelon_76
+  - first:
+      213: -137052188389314668
+    second: Watermelon_77
+  - first:
+      213: 4933337815390449560
+    second: Watermelon_78
+  - first:
+      213: 7582771489617929433
+    second: Watermelon_79
+  - first:
+      213: 1486484251711438333
+    second: Watermelon_80
+  - first:
+      213: 5955761484047105821
+    second: Watermelon_81
+  - first:
+      213: -938033084517307691
+    second: Watermelon_82
+  - first:
+      213: -3627859676944952000
+    second: Watermelon_83
+  - first:
+      213: 4243944334603137279
+    second: Watermelon_84
+  - first:
+      213: 4834953730607724905
+    second: Watermelon_85
+  - first:
+      213: -3480568994955625823
+    second: Watermelon_86
+  - first:
+      213: -1736937278909708916
+    second: Watermelon_87
+  - first:
+      213: 5925128921797255010
+    second: Watermelon_88
+  - first:
+      213: -515901643955690566
+    second: Watermelon_89
+  - first:
+      213: -7365170819418794867
+    second: Watermelon_90
+  - first:
+      213: 2156276996584768967
+    second: Watermelon_91
+  - first:
+      213: 3136704989115904161
+    second: Watermelon_92
+  - first:
+      213: 1947374625624322148
+    second: Watermelon_93
+  - first:
+      213: -2528392511112183099
+    second: Watermelon_94
+  - first:
+      213: 345385258066119126
+    second: Watermelon_95
+  - first:
+      213: -3257169372396713011
+    second: Watermelon_96
+  - first:
+      213: 8827175640649680478
+    second: Watermelon_97
+  - first:
+      213: -7974225866441656856
+    second: Watermelon_98
+  - first:
+      213: -3939189723675398301
+    second: Watermelon_99
+  - first:
+      213: -5058173944167501218
+    second: Watermelon_100
+  - first:
+      213: 7463704196018367105
+    second: Watermelon_101
+  - first:
+      213: 6666718423878561953
+    second: Watermelon_102
+  - first:
+      213: 692324660788625245
+    second: Watermelon_103
+  - first:
+      213: 723603358417091740
+    second: Watermelon_104
+  - first:
+      213: -2067000010342942075
+    second: Watermelon_105
+  - first:
+      213: -6712742186482125198
+    second: Watermelon_106
+  - first:
+      213: -2896786603975520073
+    second: Watermelon_107
+  - first:
+      213: -906283332229587037
+    second: Watermelon_108
+  - first:
+      213: -1710084664280467750
+    second: Watermelon_109
+  - first:
+      213: 7618875331161391122
+    second: Watermelon_110
+  - first:
+      213: -540292550420149156
+    second: Watermelon_111
+  - first:
+      213: -3277710741568712505
+    second: Watermelon_112
+  - first:
+      213: 560349924089303993
+    second: Watermelon_113
+  - first:
+      213: -8121563815792683074
+    second: Watermelon_114
+  - first:
+      213: 3611259548000440053
+    second: Watermelon_115
+  - first:
+      213: 4788979043213948538
+    second: Watermelon_116
+  - first:
+      213: -2524456929819179520
+    second: Watermelon_117
+  - first:
+      213: 9100871887480775953
+    second: Watermelon_118
+  - first:
+      213: 5989482776904807590
+    second: Watermelon_119
+  - first:
+      213: 423127494529213167
+    second: Watermelon_120
+  - first:
+      213: 3952705214955757436
+    second: Watermelon_121
+  - first:
+      213: 1483895365730812868
+    second: Watermelon_122
+  - first:
+      213: 3906306949474102894
+    second: Watermelon_123
+  - first:
+      213: 8237603389530774978
+    second: Watermelon_124
+  - first:
+      213: -881862646270301124
+    second: Watermelon_125
+  - first:
+      213: -8907354355283880727
+    second: Watermelon_126
+  - first:
+      213: -2440340109550347622
+    second: Watermelon_127
+  - first:
+      213: -3628664448079015607
+    second: Watermelon_128
+  - first:
+      213: 3756464716508129850
+    second: Watermelon_129
+  - first:
+      213: -1720199946038324021
+    second: Watermelon_130
+  - first:
+      213: -813130960981795682
+    second: Watermelon_131
+  - first:
+      213: 7668872382796223365
+    second: Watermelon_132
+  - first:
+      213: 391493893228286484
+    second: Watermelon_133
+  - first:
+      213: 6500658130393646781
+    second: Watermelon_134
+  - first:
+      213: -3476820244374886693
+    second: Watermelon_135
+  - first:
+      213: -1196299788837702523
+    second: Watermelon_136
+  - first:
+      213: -4575976836011448934
+    second: Watermelon_137
+  - first:
+      213: -8483192328671397051
+    second: Watermelon_138
+  - first:
+      213: 2956174035204820298
+    second: Watermelon_139
+  - first:
+      213: 7133455560588449719
+    second: Watermelon_140
+  - first:
+      213: -7576910664936588970
+    second: Watermelon_141
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Watermelon_0
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 958
+        width: 5628
+        height: 3055
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f77646cd55fa3980800000000000000
+      internalID: -8558258358756935692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_1
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 651
+        width: 65
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7881265074911e00800000000000000
+      internalID: 1013754601337358461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_2
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 255
+        width: 1488
+        height: 469
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b043a54a2fc282350800000000000000
+      internalID: 5992088724867527691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_3
+      rect:
+        serializedVersion: 2
+        x: 2446
+        y: 675
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5823adde0e189db20800000000000000
+      internalID: 3159699416640270981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_4
+      rect:
+        serializedVersion: 2
+        x: 3591
+        y: 678
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a19c882a920edf740800000000000000
+      internalID: 5187548815225833754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_5
+      rect:
+        serializedVersion: 2
+        x: 3600
+        y: 683
+        width: 1502
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc286df96ae892c0800000000000000
+      internalID: -4424528892947583781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_6
+      rect:
+        serializedVersion: 2
+        x: 5101
+        y: 675
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1212c530a051b56e0800000000000000
+      internalID: -1847860089355230943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_7
+      rect:
+        serializedVersion: 2
+        x: 2460
+        y: 660
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6bbabcb0bf7df40800000000000000
+      internalID: 5753343077069338363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_8
+      rect:
+        serializedVersion: 2
+        x: 3566
+        y: 662
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3dee0b023cc8720800000000000000
+      internalID: 2849867209393492970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_9
+      rect:
+        serializedVersion: 2
+        x: 3584
+        y: 674
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7a117dfce46b280800000000000000
+      internalID: -9027941748444125203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_10
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 660
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 354433638b3833f50800000000000000
+      internalID: 6859971484621947987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_11
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 642
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94862df0f59dfd1e0800000000000000
+      internalID: -2170777493058721719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_12
+      rect:
+        serializedVersion: 2
+        x: 2483
+        y: 651
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed1bc9bb92cb56b60800000000000000
+      internalID: 7738798422133354974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_13
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8079937796357a7d0800000000000000
+      internalID: -2907263322007431416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_14
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 642
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 827b4f953337bf0b0800000000000000
+      internalID: -5693830639490123992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_15
+      rect:
+        serializedVersion: 2
+        x: 5138
+        y: 651
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8508aee4f15f2c0800000000000000
+      internalID: -4398575037255231300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_16
+      rect:
+        serializedVersion: 2
+        x: 5150
+        y: 647
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a7a5a0a408d5b60800000000000000
+      internalID: 7736480790382017160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_17
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 615
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611f69ccadd7e1750800000000000000
+      internalID: 6277593309289836822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_18
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 633
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5411a3ba13a698d0800000000000000
+      internalID: -2839903179932363684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_19
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 140
+        width: 118
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117b5faae6bd52070800000000000000
+      internalID: 8081106374747338513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_20
+      rect:
+        serializedVersion: 2
+        x: 5155
+        y: 642
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e667b9dacfa2c7520800000000000000
+      internalID: 2701081141248226926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_21
+      rect:
+        serializedVersion: 2
+        x: 5161
+        y: 616
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c335b36f6d7ba3010800000000000000
+      internalID: 1169449187138032444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_22
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 602
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b00de8ee726943f0800000000000000
+      internalID: -916092751979937613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_23
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 609
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf3b8eb1f9c3f1040800000000000000
+      internalID: 4620478396771120124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_24
+      rect:
+        serializedVersion: 2
+        x: 2497
+        y: 131
+        width: 127
+        height: 504
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ee5f4ebf7e95dd0800000000000000
+      internalID: -2496709449336099296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_25
+      rect:
+        serializedVersion: 2
+        x: 5188
+        y: 591
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6a03744a95efea0800000000000000
+      internalID: -5837129504921704776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_26
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 574
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bda8bc749f053f30800000000000000
+      internalID: 4554563728577179065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_27
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 584
+        width: 14
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a12396046a96c6450800000000000000
+      internalID: 6083353359436821018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_28
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 576
+        width: 48
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c69fc780dacef7a0800000000000000
+      internalID: -6341408228310542649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_29
+      rect:
+        serializedVersion: 2
+        x: 1240
+        y: 575
+        width: 49
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8e6741a5272f810800000000000000
+      internalID: 1797624932490209456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_30
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 569
+        width: 49
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d0fbefc4af43e40800000000000000
+      internalID: 5635404242345725219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_31
+      rect:
+        serializedVersion: 2
+        x: 2018
+        y: 260
+        width: 46
+        height: 341
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02bb4f6832bf4890800000000000000
+      internalID: -7471557301329219061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_32
+      rect:
+        serializedVersion: 2
+        x: 5209
+        y: 553
+        width: 27
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89b4d81c85dd01370800000000000000
+      internalID: 8291370287263206296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_33
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 252
+        width: 58
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b71fe2706c0f470800000000000000
+      internalID: 8426452636964846384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_34
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 185
+        width: 43
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98290046e5e52570800000000000000
+      internalID: 8441405853655443610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_35
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 361
+        width: 6
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9c174b4da09f300800000000000000
+      internalID: 286271959991437732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_36
+      rect:
+        serializedVersion: 2
+        x: 1139
+        y: 282
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf86c58380000ef30800000000000000
+      internalID: 4602678854477965564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_37
+      rect:
+        serializedVersion: 2
+        x: 1174
+        y: 315
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f6cdc4f7e135210800000000000000
+      internalID: 1320432647848881990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_38
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 366
+        width: 9
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1a3a54561b8ae30800000000000000
+      internalID: 4515053674957087155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_39
+      rect:
+        serializedVersion: 2
+        x: 1199
+        y: 420
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc4973008937ea30800000000000000
+      internalID: 4244424395796860105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_40
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 454
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d5fcd261f0ffa0800000000000000
+      internalID: -5768845715745416795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_41
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 488
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10233a1dc826bbdd0800000000000000
+      internalID: -2469271613730508287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_42
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 522
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48aedb2fbccd9520800000000000000
+      internalID: 2710547672193738831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_43
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 514
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2bb8b9ff93eb03f0800000000000000
+      internalID: -933402221520307414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_44
+      rect:
+        serializedVersion: 2
+        x: 1268
+        y: 472
+        width: 7
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3816c81e7273da260800000000000000
+      internalID: 7110400031115207043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_45
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 408
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bac66c15f2b82420800000000000000
+      internalID: 2605529150247062199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_46
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 551
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2516799dcc12710800000000000000
+      internalID: 1666838572023501493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_47
+      rect:
+        serializedVersion: 2
+        x: 1290
+        y: 379
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07d42fbb598c1cf0800000000000000
+      internalID: -280198049661921525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_48
+      rect:
+        serializedVersion: 2
+        x: 1294
+        y: 530
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9088c3d9e107e450800000000000000
+      internalID: 6117860722598248602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_49
+      rect:
+        serializedVersion: 2
+        x: 1298
+        y: 346
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f2cfeab9d93b250800000000000000
+      internalID: 5959280023922552680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_50
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 505
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be5d9ec128b403a0800000000000000
+      internalID: -6700027890280603983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_51
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 480
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6fefadb4d8b929d0800000000000000
+      internalID: -2798502469579051154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_52
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 317
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 560a72e49068aba00800000000000000
+      internalID: 773077660571508837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_53
+      rect:
+        serializedVersion: 2
+        x: 1312
+        y: 455
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59ca16bee3bf62920800000000000000
+      internalID: 2965333652325641365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_54
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 284
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff962dfbef5c09d40800000000000000
+      internalID: 5589184835497388543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_55
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 430
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f66ffe665629020800000000000000
+      internalID: 2347049848600424250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_56
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 260
+        width: 51
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17f4da6a5b2c1f80800000000000000
+      internalID: -8134579159598565606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_57
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 309
+        width: 8
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e7f2ab63ad16390800000000000000
+      internalID: -7826734748806447555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_58
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 363
+        width: 7
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a711b132d576990800000000000000
+      internalID: -7392837857946011039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_59
+      rect:
+        serializedVersion: 2
+        x: 1379
+        y: 443
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278a6960bd8d13780800000000000000
+      internalID: -8704938169510483854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_60
+      rect:
+        serializedVersion: 2
+        x: 1385
+        y: 323
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51dc9b2d26c32410800000000000000
+      internalID: 1451221402250957146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_61
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 337
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d469898d7d4174af0800000000000000
+      internalID: -412337923596708275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_62
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 485
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20196925e5c3816a0800000000000000
+      internalID: -6478361688162266878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_63
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 355
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ad494366e2c0ac0800000000000000
+      internalID: -3887681361823868356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_64
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 527
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d742eb232524118f0800000000000000
+      internalID: -571602756893268867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_65
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 415
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8bb75da8ec3cec40800000000000000
+      internalID: 5542872211424525199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_66
+      rect:
+        serializedVersion: 2
+        x: 1417
+        y: 436
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d53a4875a2cf020800000000000000
+      internalID: 2376821258720599376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_67
+      rect:
+        serializedVersion: 2
+        x: 1434
+        y: 496
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b50768bbe96e780800000000000000
+      internalID: -8654055105694246117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_68
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 517
+        width: 7
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cec38e2f824534e90800000000000000
+      internalID: -7042692857426592532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_69
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 542
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5fbd1aa27bb17c0800000000000000
+      internalID: -4099481642058648130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_70
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 441
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4975a0bfdf255ead0800000000000000
+      internalID: -2673639552982558828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_71
+      rect:
+        serializedVersion: 2
+        x: 1627
+        y: 260
+        width: 66
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d1f1d2ddd1c0f00800000000000000
+      internalID: 1084274446071438656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_72
+      rect:
+        serializedVersion: 2
+        x: 1656
+        y: 478
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84f465356f39b71a0800000000000000
+      internalID: -6810687325298340024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_73
+      rect:
+        serializedVersion: 2
+        x: 1741
+        y: 281
+        width: 40
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef94c306e5b230e0800000000000000
+      internalID: -2291569260867837984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_74
+      rect:
+        serializedVersion: 2
+        x: 1778
+        y: 467
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cbb6ff975b28c5a0800000000000000
+      internalID: -6500898406763414583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_75
+      rect:
+        serializedVersion: 2
+        x: 1780
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2762e51d2b47cf980800000000000000
+      internalID: -8503793685016729998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_76
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 303
+        width: 32
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c937381a421cce0e0800000000000000
+      internalID: -2239202551637249124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_77
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 299
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f6d53c2c7191ef0800000000000000
+      internalID: -137052188389314668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_78
+      rect:
+        serializedVersion: 2
+        x: 1814
+        y: 450
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f695bea9cb67440800000000000000
+      internalID: 4933337815390449560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_79
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 302
+        width: 32
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4e2ab9e7a6b3960800000000000000
+      internalID: 7582771489617929433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_80
+      rect:
+        serializedVersion: 2
+        x: 1923
+        y: 278
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfdf87b1d8d01a410800000000000000
+      internalID: 1486484251711438333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_81
+      rect:
+        serializedVersion: 2
+        x: 1925
+        y: 469
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1fb497c38d17a250800000000000000
+      internalID: 5955761484047105821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_82
+      rect:
+        serializedVersion: 2
+        x: 1928
+        y: 282
+        width: 41
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da28c921ef6bf2f0800000000000000
+      internalID: -938033084517307691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_83
+      rect:
+        serializedVersion: 2
+        x: 2114
+        y: 281
+        width: 46
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0459bb458d047adc0800000000000000
+      internalID: -3627859676944952000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_84
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 277
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff03d8e03e485ea30800000000000000
+      internalID: 4243944334603137279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_85
+      rect:
+        serializedVersion: 2
+        x: 2154
+        y: 306
+        width: 28
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 969b2522dc4391340800000000000000
+      internalID: 4834953730607724905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_86
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 398
+        width: 124
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aa7e6f90f882bfc0800000000000000
+      internalID: -3480568994955625823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_87
+      rect:
+        serializedVersion: 2
+        x: 2181
+        y: 302
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c85047d5fb825e7e0800000000000000
+      internalID: -1736937278909708916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_88
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 368
+        width: 39
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26f5e189c594a3250800000000000000
+      internalID: 5925128921797255010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_89
+      rect:
+        serializedVersion: 2
+        x: 2296
+        y: 269
+        width: 11
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab32bfc203627d8f0800000000000000
+      internalID: -515901643955690566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_90
+      rect:
+        serializedVersion: 2
+        x: 4004
+        y: 250
+        width: 169
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d84587e7928a9c990800000000000000
+      internalID: -7365170819418794867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_91
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 425
+        width: 27
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c508c20182aced10800000000000000
+      internalID: 2156276996584768967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_92
+      rect:
+        serializedVersion: 2
+        x: 4137
+        y: 523
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0f2719190d78b20800000000000000
+      internalID: 3136704989115904161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_93
+      rect:
+        serializedVersion: 2
+        x: 4169
+        y: 403
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46072f487e6760b10800000000000000
+      internalID: 1947374625624322148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_94
+      rect:
+        serializedVersion: 2
+        x: 4172
+        y: 452
+        width: 33
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2866a386859ecd0800000000000000
+      internalID: -2528392511112183099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_95
+      rect:
+        serializedVersion: 2
+        x: 4225
+        y: 272
+        width: 15
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d900b1ff0e0bc400800000000000000
+      internalID: 345385258066119126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_96
+      rect:
+        serializedVersion: 2
+        x: 4226
+        y: 323
+        width: 11
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb030986b53cc2d0800000000000000
+      internalID: -3257169372396713011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_97
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 300
+        width: 166
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e56c7ee0a7d608a70800000000000000
+      internalID: 8827175640649680478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_98
+      rect:
+        serializedVersion: 2
+        x: 4239
+        y: 265
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e57300e2dbd55190800000000000000
+      internalID: -7974225866441656856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_99
+      rect:
+        serializedVersion: 2
+        x: 4245
+        y: 245
+        width: 49
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36f657921df2559c0800000000000000
+      internalID: -3939189723675398301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_100
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 437
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5272cdd891cdc9b0800000000000000
+      internalID: -5058173944167501218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_101
+      rect:
+        serializedVersion: 2
+        x: 4267
+        y: 299
+        width: 11
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18a64400c67649760800000000000000
+      internalID: 7463704196018367105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_102
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 276
+        width: 43
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a075d0b511f48c50800000000000000
+      internalID: 6666718423878561953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_103
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 343
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5f7c836c91ab9900800000000000000
+      internalID: 692324660788625245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_104
+      rect:
+        serializedVersion: 2
+        x: 4300
+        y: 245
+        width: 112
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9cfab0bb61ca0a00800000000000000
+      internalID: 723603358417091740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_105
+      rect:
+        serializedVersion: 2
+        x: 4316
+        y: 277
+        width: 39
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58ab7c8217a8053e0800000000000000
+      internalID: -2067000010342942075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_106
+      rect:
+        serializedVersion: 2
+        x: 4399
+        y: 253
+        width: 12
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27634f90c8c87d2a0800000000000000
+      internalID: -6712742186482125198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_107
+      rect:
+        serializedVersion: 2
+        x: 4471
+        y: 407
+        width: 180
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0dde77eeb8cc7d0800000000000000
+      internalID: -2896786603975520073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_108
+      rect:
+        serializedVersion: 2
+        x: 4473
+        y: 250
+        width: 44
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3af199c6c1c3c63f0800000000000000
+      internalID: -906283332229587037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_109
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 384
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad638b9ee0f8448e0800000000000000
+      internalID: -1710084664280467750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_110
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 245
+        width: 104
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2108cd54fbeabb960800000000000000
+      internalID: 7618875331161391122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_111
+      rect:
+        serializedVersion: 2
+        x: 5234
+        y: 250
+        width: 44
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5cca69b9ce7088f0800000000000000
+      internalID: -540292550420149156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_112
+      rect:
+        serializedVersion: 2
+        x: 5229
+        y: 220
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c09054527b3382d0800000000000000
+      internalID: -3277710741568712505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_113
+      rect:
+        serializedVersion: 2
+        x: 5237
+        y: 234
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3924f7943c6c700800000000000000
+      internalID: 560349924089303993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_114
+      rect:
+        serializedVersion: 2
+        x: 5211
+        y: 193
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb7d20b4db86a4f80800000000000000
+      internalID: -8121563815792683074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_115
+      rect:
+        serializedVersion: 2
+        x: 5216
+        y: 200
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fecd46fc65cd1230800000000000000
+      internalID: 3611259548000440053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_116
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 171
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76be83111fd57240800000000000000
+      internalID: 4788979043213948538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_117
+      rect:
+        serializedVersion: 2
+        x: 5194
+        y: 172
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006ca572cc357fcd0800000000000000
+      internalID: -2524456929819179520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_118
+      rect:
+        serializedVersion: 2
+        x: 5200
+        y: 179
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11561af53cacc4e70800000000000000
+      internalID: 9100871887480775953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_119
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 152
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a43bb91adaee1350800000000000000
+      internalID: 5989482776904807590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_120
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 142
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe26d16e6304fd500800000000000000
+      internalID: 423127494529213167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_121
+      rect:
+        serializedVersion: 2
+        x: 5157
+        y: 135
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f954f5374dad630800000000000000
+      internalID: 3952705214955757436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_122
+      rect:
+        serializedVersion: 2
+        x: 5177
+        y: 153
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c3cb3e19fad79410800000000000000
+      internalID: 1483895365730812868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_123
+      rect:
+        serializedVersion: 2
+        x: 5182
+        y: 159
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e2b0b597df53630800000000000000
+      internalID: 3906306949474102894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_124
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 131
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd198953a8d15270800000000000000
+      internalID: 8237603389530774978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_125
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 122
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c6f54789ef2c3f0800000000000000
+      internalID: -881862646270301124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_126
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 124
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e496c43868b26480800000000000000
+      internalID: -8907354355283880727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_127
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 121
+        width: 25
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a1d1f899b222ed0800000000000000
+      internalID: -2440340109550347622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_128
+      rect:
+        serializedVersion: 2
+        x: 5143
+        y: 124
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9415923f8e464adc0800000000000000
+      internalID: -3628664448079015607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_129
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 100
+        width: 34
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a61cec1c4a12430800000000000000
+      internalID: 3756464716508129850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_130
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 106
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc45db9534f9028e0800000000000000
+      internalID: -1720199946038324021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_131
+      rect:
+        serializedVersion: 2
+        x: 2481
+        y: 119
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cdecaf2bd27b4f0800000000000000
+      internalID: -813130960981795682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_132
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 114
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5835f5cfcce4d6a60800000000000000
+      internalID: 7668872382796223365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_133
+      rect:
+        serializedVersion: 2
+        x: 5106
+        y: 100
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4125b952f9dde6500800000000000000
+      internalID: 391493893228286484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_134
+      rect:
+        serializedVersion: 2
+        x: 2449
+        y: 99
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db64e5ca02af63a50800000000000000
+      internalID: 6500658130393646781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_135
+      rect:
+        serializedVersion: 2
+        x: 3572
+        y: 107
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd6e522a86adfbfc0800000000000000
+      internalID: -3476820244374886693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_136
+      rect:
+        serializedVersion: 2
+        x: 3583
+        y: 100
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58434792ea3e56fe0800000000000000
+      internalID: -1196299788837702523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_137
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 94
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a952f1def4dde70c0800000000000000
+      internalID: -4575976836011448934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_138
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 58
+        width: 1349
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54bf830e585a54a80800000000000000
+      internalID: -8483192328671397051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_139
+      rect:
+        serializedVersion: 2
+        x: 2310
+        y: 59
+        width: 140
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4dcd9e5f90760920800000000000000
+      internalID: 2956174035204820298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_140
+      rect:
+        serializedVersion: 2
+        x: 3595
+        y: 58
+        width: 1362
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7d8e5a9002ff260800000000000000
+      internalID: 7133455560588449719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Watermelon_141
+      rect:
+        serializedVersion: 2
+        x: 4966
+        y: 59
+        width: 141
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659f599f4e769d690800000000000000
+      internalID: -7576910664936588970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Watermelon_0: -8558258358756935692
+      Watermelon_1: 1013754601337358461
+      Watermelon_10: 6859971484621947987
+      Watermelon_100: -5058173944167501218
+      Watermelon_101: 7463704196018367105
+      Watermelon_102: 6666718423878561953
+      Watermelon_103: 692324660788625245
+      Watermelon_104: 723603358417091740
+      Watermelon_105: -2067000010342942075
+      Watermelon_106: -6712742186482125198
+      Watermelon_107: -2896786603975520073
+      Watermelon_108: -906283332229587037
+      Watermelon_109: -1710084664280467750
+      Watermelon_11: -2170777493058721719
+      Watermelon_110: 7618875331161391122
+      Watermelon_111: -540292550420149156
+      Watermelon_112: -3277710741568712505
+      Watermelon_113: 560349924089303993
+      Watermelon_114: -8121563815792683074
+      Watermelon_115: 3611259548000440053
+      Watermelon_116: 4788979043213948538
+      Watermelon_117: -2524456929819179520
+      Watermelon_118: 9100871887480775953
+      Watermelon_119: 5989482776904807590
+      Watermelon_12: 7738798422133354974
+      Watermelon_120: 423127494529213167
+      Watermelon_121: 3952705214955757436
+      Watermelon_122: 1483895365730812868
+      Watermelon_123: 3906306949474102894
+      Watermelon_124: 8237603389530774978
+      Watermelon_125: -881862646270301124
+      Watermelon_126: -8907354355283880727
+      Watermelon_127: -2440340109550347622
+      Watermelon_128: -3628664448079015607
+      Watermelon_129: 3756464716508129850
+      Watermelon_13: -2907263322007431416
+      Watermelon_130: -1720199946038324021
+      Watermelon_131: -813130960981795682
+      Watermelon_132: 7668872382796223365
+      Watermelon_133: 391493893228286484
+      Watermelon_134: 6500658130393646781
+      Watermelon_135: -3476820244374886693
+      Watermelon_136: -1196299788837702523
+      Watermelon_137: -4575976836011448934
+      Watermelon_138: -8483192328671397051
+      Watermelon_139: 2956174035204820298
+      Watermelon_14: -5693830639490123992
+      Watermelon_140: 7133455560588449719
+      Watermelon_141: -7576910664936588970
+      Watermelon_15: -4398575037255231300
+      Watermelon_16: 7736480790382017160
+      Watermelon_17: 6277593309289836822
+      Watermelon_18: -2839903179932363684
+      Watermelon_19: 8081106374747338513
+      Watermelon_2: 5992088724867527691
+      Watermelon_20: 2701081141248226926
+      Watermelon_21: 1169449187138032444
+      Watermelon_22: -916092751979937613
+      Watermelon_23: 4620478396771120124
+      Watermelon_24: -2496709449336099296
+      Watermelon_25: -5837129504921704776
+      Watermelon_26: 4554563728577179065
+      Watermelon_27: 6083353359436821018
+      Watermelon_28: -6341408228310542649
+      Watermelon_29: 1797624932490209456
+      Watermelon_3: 3159699416640270981
+      Watermelon_30: 5635404242345725219
+      Watermelon_31: -7471557301329219061
+      Watermelon_32: 8291370287263206296
+      Watermelon_33: 8426452636964846384
+      Watermelon_34: 8441405853655443610
+      Watermelon_35: 286271959991437732
+      Watermelon_36: 4602678854477965564
+      Watermelon_37: 1320432647848881990
+      Watermelon_38: 4515053674957087155
+      Watermelon_39: 4244424395796860105
+      Watermelon_4: 5187548815225833754
+      Watermelon_40: -5768845715745416795
+      Watermelon_41: -2469271613730508287
+      Watermelon_42: 2710547672193738831
+      Watermelon_43: -933402221520307414
+      Watermelon_44: 7110400031115207043
+      Watermelon_45: 2605529150247062199
+      Watermelon_46: 1666838572023501493
+      Watermelon_47: -280198049661921525
+      Watermelon_48: 6117860722598248602
+      Watermelon_49: 5959280023922552680
+      Watermelon_5: -4424528892947583781
+      Watermelon_50: -6700027890280603983
+      Watermelon_51: -2798502469579051154
+      Watermelon_52: 773077660571508837
+      Watermelon_53: 2965333652325641365
+      Watermelon_54: 5589184835497388543
+      Watermelon_55: 2347049848600424250
+      Watermelon_56: -8134579159598565606
+      Watermelon_57: -7826734748806447555
+      Watermelon_58: -7392837857946011039
+      Watermelon_59: -8704938169510483854
+      Watermelon_6: -1847860089355230943
+      Watermelon_60: 1451221402250957146
+      Watermelon_61: -412337923596708275
+      Watermelon_62: -6478361688162266878
+      Watermelon_63: -3887681361823868356
+      Watermelon_64: -571602756893268867
+      Watermelon_65: 5542872211424525199
+      Watermelon_66: 2376821258720599376
+      Watermelon_67: -8654055105694246117
+      Watermelon_68: -7042692857426592532
+      Watermelon_69: -4099481642058648130
+      Watermelon_7: 5753343077069338363
+      Watermelon_70: -2673639552982558828
+      Watermelon_71: 1084274446071438656
+      Watermelon_72: -6810687325298340024
+      Watermelon_73: -2291569260867837984
+      Watermelon_74: -6500898406763414583
+      Watermelon_75: -8503793685016729998
+      Watermelon_76: -2239202551637249124
+      Watermelon_77: -137052188389314668
+      Watermelon_78: 4933337815390449560
+      Watermelon_79: 7582771489617929433
+      Watermelon_8: 2849867209393492970
+      Watermelon_80: 1486484251711438333
+      Watermelon_81: 5955761484047105821
+      Watermelon_82: -938033084517307691
+      Watermelon_83: -3627859676944952000
+      Watermelon_84: 4243944334603137279
+      Watermelon_85: 4834953730607724905
+      Watermelon_86: -3480568994955625823
+      Watermelon_87: -1736937278909708916
+      Watermelon_88: 5925128921797255010
+      Watermelon_89: -515901643955690566
+      Watermelon_9: -9027941748444125203
+      Watermelon_90: -7365170819418794867
+      Watermelon_91: 2156276996584768967
+      Watermelon_92: 3136704989115904161
+      Watermelon_93: 1947374625624322148
+      Watermelon_94: -2528392511112183099
+      Watermelon_95: 345385258066119126
+      Watermelon_96: -3257169372396713011
+      Watermelon_97: 8827175640649680478
+      Watermelon_98: -7974225866441656856
+      Watermelon_99: -3939189723675398301
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_P
+  m_EditorClassIdentifier: 
+  letter: 80
+  itemSprites:
+  - {fileID: 5806247343882902020, guid: fad8943824771a14590c797f3a8d4725, type: 3}
+  - {fileID: -9122695006515159614, guid: d66f834a8e44c1a4d8ec974189afb93d, type: 3}
+  - {fileID: 4806713030324060906, guid: 01a040cca5812d54481c5ce2dca87198, type: 3}
+  itemNames:
+  - Pencil
+  - Pig
+  - Pumkin

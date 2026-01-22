@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87b5228871444a142afeb413171615ff, type: 3}
+  m_Name: LetterData_C
+  m_EditorClassIdentifier: 
+  letter: 67
+  itemSprites:
+  - {fileID: -5859083586626064994, guid: afa20ce00915e484dad8181d1c4dd89d, type: 3}
+  - {fileID: -7232521027535748977, guid: 642715039c7387540bd2baebc99b43d5, type: 3}
+  - {fileID: 6602966838755796383, guid: cacd59cbfdcfeef478425946427e5fc7, type: 3}
+  - {fileID: 9025089897676550694, guid: aae304e207860e349a0f7d028e9dd03c, type: 3}
+  itemNames:
+  - Carrot
+  - Cat
+  - Cow
+  - Choclate
