@@ -121,12 +121,12 @@ public class AlphabetMatchGame : MonoBehaviour
         for (int i = 0; i < letterTexts.Length && i < selectedLetters.Count; i++)
         {
             letterTexts[i].text = selectedLetters[i].ToString();
-            if (letterBackgrounds[i] != null)
-            {
-                Image bg = letterBackgrounds[i].GetComponent<Image>();
-                if (bg != null)
-                    bg.color = normalLetterColor;
-            }
+            // if (letterBackgrounds[i] != null)
+            // {
+            //     Image bg = letterBackgrounds[i].GetComponent<Image>();
+            //     if (bg != null)
+            //         bg.color = normalLetterColor;
+            // }
         }
     }
 
